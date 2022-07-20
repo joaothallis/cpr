@@ -20,11 +20,11 @@ A fish function that list commits pending to release.
 [(Back to top)](#table-of-contents)
 
 ```fish
-# Run `pcr` in the current git project
-pcr
+# Run `cpr` in the current git project
+cpr
 
-# Run `pcr` in a git project different of the current git project/directory
-pcr ../elixir
+# Run `cpr` in a git project different of the current git project/directory
+cpr ../elixir
 ```
 
 # Installation
